@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1426258736 source:c:\users\esraasalem\desktop\circle cartesian\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<math.h>
+
